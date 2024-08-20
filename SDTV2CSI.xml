@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/eli/workspace/SDTV2CSI/SDTV2CSI.kicad_sch</source>
+    <date>Sunday, August 11, 2024 at 05:17:38 PM</date>
+    <tool>Eeschema (6.0.5-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SDTV2CSI.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.01μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033R71E103KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp. Coeff.">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033R71E103KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Temp. Coeff." value="X7R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd0f8a71-2367-446f-a40c-cee5912bade5</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033Z71C104KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp Coeff">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033Z71C104KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Temp Coeff" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>958102f3-034d-4d67-9d25-71f38ed224f0</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.01μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033R71E103KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp. Coeff.">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033R71E103KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Temp. Coeff." value="X7R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4c72cbb-59a3-44bf-980b-cef6661f7275</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>20pF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM0335C1H200GA01D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp Coeff">C0G/NP0</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM0335C1H200GA01D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Temp Coeff" value="C0G/NP0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b244d8e-4a5e-47bf-b03e-f5dc9514c1fa</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033Z71C104KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp Coeff">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033Z71C104KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Temp Coeff" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64180a47-267e-4b36-90de-85ca4c859373</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.01μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033R71E103KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp. Coeff.">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033R71E103KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Temp. Coeff." value="X7R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da37a166-d94c-48ad-afff-7d4e19f1b050</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>20pF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM0335C1H200GA01D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp Coeff">C0G/NP0</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM0335C1H200GA01D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Temp Coeff" value="C0G/NP0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c85e535d-0932-4034-98bd-6623c550bd7e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033Z71C104KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp Coeff">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033Z71C104KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Temp Coeff" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95d191e6-b03c-46a0-9a78-69aa7460c20a</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.01μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033R71E103KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp. Coeff.">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033R71E103KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Temp. Coeff." value="X7R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da20e99b-ed6d-4252-954a-ff318f15cc8b</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033Z71C104KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp Coeff">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033Z71C104KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Temp Coeff" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b8456cf-8ec3-400c-be57-279306fc8d8d</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.01μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033R71E103KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp. Coeff.">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033R71E103KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Temp. Coeff." value="X7R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a64595f-3c63-4c62-af01-db4d19a413dc</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033Z71C104KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp Coeff">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033Z71C104KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Temp Coeff" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b23f42c-5cee-4810-bb3c-eee8ebc4ed40</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033Z71C104KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp Coeff">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033Z71C104KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Temp Coeff" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02f112a2-2a42-4c21-8bbe-c49369a409d1</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033Z71C104KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp Coeff">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033Z71C104KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Temp Coeff" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ced2bec-eb47-4a64-b96f-f6004525dd39</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1μF</value>
+      <footprint>AU:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">GRM033Z71C104KE14D</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Temp Coeff">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM033Z71C104KE14D"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Temp Coeff" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>301400ef-39b6-4478-9df1-917c2c73701a</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100μF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="MPN">MSASJ21GBB5107MTCA01</field>
+        <field name="Manufacturer">Taiyo Yuden</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="MSASJ21GBB5107MTCA01"/>
+      <property name="Manufacturer" value="Taiyo Yuden"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d486fd8-513b-470a-8fd8-a9ef27b0372e</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100μF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="MPN">MSASJ21GBB5107MTCA01</field>
+        <field name="Manufacturer">Taiyo Yuden</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="MSASJ21GBB5107MTCA01"/>
+      <property name="Manufacturer" value="Taiyo Yuden"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36ff3a26-feb6-494e-a237-9089d0f58127</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>LC(PI)</value>
+      <footprint>AU:NFE31PT101C1E9L_MUR</footprint>
+      <fields>
+        <field name="MPN">NFE31PT101C1E9L</field>
+        <field name="Manufacturer">Murata Electronics</field>
+      </fields>
+      <libsource lib="AU" part="NFE31PT101C1E9L" description=""/>
+      <property name="MPN" value="NFE31PT101C1E9L"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6212586b-f045-432f-9d12-8b5f822fa3a7</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>LC(PI)</value>
+      <footprint>AU:NFE31PT101C1E9L_MUR</footprint>
+      <fields>
+        <field name="MPN">NFE31PT101C1E9L</field>
+        <field name="Manufacturer">Murata Electronics</field>
+      </fields>
+      <libsource lib="AU" part="NFE31PT101C1E9L" description=""/>
+      <property name="MPN" value="NFE31PT101C1E9L"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e0a07fc-21f3-4475-9545-9dbe77f392ab</tstamps>
+    </comp>
+    <comp ref="F3">
+      <value>LC(PI)</value>
+      <footprint>AU:NFE31PT101C1E9L_MUR</footprint>
+      <fields>
+        <field name="MPN">NFE31PT101C1E9L</field>
+        <field name="Manufacturer">Murata Electronics</field>
+      </fields>
+      <libsource lib="AU" part="NFE31PT101C1E9L" description=""/>
+      <property name="MPN" value="NFE31PT101C1E9L"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3b90ebd-dc01-426a-bf59-cc26dcf56f3a</tstamps>
+    </comp>
+    <comp ref="F4">
+      <value>LC(PI)</value>
+      <footprint>AU:NFE31PT101C1E9L_MUR</footprint>
+      <fields>
+        <field name="MPN">NFE31PT101C1E9L</field>
+        <field name="Manufacturer">Murata Electronics</field>
+      </fields>
+      <libsource lib="AU" part="NFE31PT101C1E9L" description=""/>
+      <property name="MPN" value="NFE31PT101C1E9L"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16b4a3ac-99be-454a-9683-2a683d953cb3</tstamps>
+    </comp>
+    <comp ref="F5">
+      <value>LC(PI)</value>
+      <footprint>AU:NFE31PT101C1E9L_MUR</footprint>
+      <fields>
+        <field name="MPN">NFE31PT101C1E9L</field>
+        <field name="Manufacturer">Murata Electronics</field>
+      </fields>
+      <libsource lib="AU" part="NFE31PT101C1E9L" description=""/>
+      <property name="MPN" value="NFE31PT101C1E9L"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42e49477-4563-4ca2-8df3-ca0fa2e869b9</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_901-144_Vertical</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42587cf1-38f3-4949-b14c-b64c2b6c4411</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_901-144_Vertical</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b26734ff-a801-40ab-a8bf-103de157c8e5</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>SFW15R-1STE1LF</value>
+      <footprint>AU:528061510</footprint>
+      <datasheet>SFW15R-1STE1LF</datasheet>
+      <libsource lib="AU" part="SFW15R-1STE1LF" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d0d2b6a-2db3-4005-b78c-def2633ee6cf</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>3k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">PFR03S-302-FNH</field>
+        <field name="Manufacturer">Delta Electronics/Cyntec</field>
+        <field name="Power">1/20W</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MPN" value="PFR03S-302-FNH"/>
+      <property name="Manufacturer" value="Delta Electronics/Cyntec"/>
+      <property name="Power" value="1/20W"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dddafd61-573a-452b-b20c-78ef58c05c4e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>24</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">ERJ-1GNF24R0C</field>
+        <field name="Manufacturer">Panasonic Electronic Components</field>
+        <field name="Power">1/20W</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MPN" value="ERJ-1GNF24R0C"/>
+      <property name="Manufacturer" value="Panasonic Electronic Components"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Power" value="1/20W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81643526-7c0c-4062-a30f-19b12b0cb66c</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>51</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">RMCF0201FT51R0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Power">1/20W</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MPN" value="RMCF0201FT51R0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Power" value="1/20W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12a25e27-4eac-477c-8993-63e297be9ba4</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>3k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">PFR03S-302-FNH</field>
+        <field name="Manufacturer">Delta Electronics/Cyntec</field>
+        <field name="Power">1/20W</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MPN" value="PFR03S-302-FNH"/>
+      <property name="Manufacturer" value="Delta Electronics/Cyntec"/>
+      <property name="Power" value="1/20W"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1e19098-7071-43db-8536-b1b5b05ac077</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>24</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">ERJ-1GNF24R0C</field>
+        <field name="Manufacturer">Panasonic Electronic Components</field>
+        <field name="Power">1/20W</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MPN" value="ERJ-1GNF24R0C"/>
+      <property name="Manufacturer" value="Panasonic Electronic Components"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Power" value="1/20W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f8e05b3-1624-4aad-9b0a-6f60a23ceb07</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>51</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">RMCF0201FT51R0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Power">1/20W</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MPN" value="RMCF0201FT51R0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Power" value="1/20W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37510d2d-380e-41ee-bfb9-2b072cc33871</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>560</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MPN" value=""/>
+      <property name="Manufacturer" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81e3359e-747c-4f4e-bcb6-861471852d71</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>3k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">PFR03S-302-FNH</field>
+        <field name="Manufacturer">Delta Electronics/Cyntec</field>
+        <field name="Power">1/20W</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MPN" value="PFR03S-302-FNH"/>
+      <property name="Manufacturer" value="Delta Electronics/Cyntec"/>
+      <property name="Power" value="1/20W"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eac3364e-3039-4e65-ab90-389de17fe5cd</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>3k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">PFR03S-302-FNH</field>
+        <field name="Manufacturer">Delta Electronics/Cyntec</field>
+        <field name="Power">1/20W</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MPN" value="PFR03S-302-FNH"/>
+      <property name="Manufacturer" value="Delta Electronics/Cyntec"/>
+      <property name="Power" value="1/20W"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68abefe0-c7ab-4535-8c3e-09cb38c769d2</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>3k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="MPN">PFR03S-302-FNH</field>
+        <field name="Manufacturer">Delta Electronics/Cyntec</field>
+        <field name="Power">1/20W</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MPN" value="PFR03S-302-FNH"/>
+      <property name="Manufacturer" value="Delta Electronics/Cyntec"/>
+      <property name="Power" value="1/20W"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32611f1f-62ee-4360-bd3b-ce8b1852ebdb</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ADV7280AWBCPZ-M</value>
+      <footprint>AU:CP_32_12_ADI</footprint>
+      <datasheet>ADV7280AWBCPZ-M-RL</datasheet>
+      <libsource lib="AU" part="ADV7280AWBCPZ-M" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22ddad51-6e21-4e39-bb4d-05f95fa2ab8d</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TLV75718PDBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/tlv757p.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="TLV75718PDBV" description="1A Low IQ Small Size Low Dropout Voltage Regulator, Fixed Output 1.8V, SOT-23-5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dd7f206-2cea-4046-8b03-e658e88e5dcf</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>28.63636MHz</value>
+      <footprint>Crystal:Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm</footprint>
+      <fields>
+        <field name="Alt PN">ABM8AIG-28.63636MHZ-12-2Z-T3</field>
+        <field name="ESR">35Ω</field>
+        <field name="Frequency Stability">±50ppm</field>
+        <field name="Frequency Tolerance">±20ppm</field>
+        <field name="Load Capacitance">12 pF</field>
+        <field name="MPN">ECS-286.3-12-33B2Q-JES-TR3</field>
+        <field name="Manufacturer">ECS Inc.</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <property name="MPN" value="ECS-286.3-12-33B2Q-JES-TR3"/>
+      <property name="Manufacturer" value="ECS Inc."/>
+      <property name="Frequency Stability" value="±50ppm"/>
+      <property name="Frequency Tolerance" value="±20ppm"/>
+      <property name="Load Capacitance" value="12 pF"/>
+      <property name="ESR" value="35Ω"/>
+      <property name="Alt PN" value="ABM8AIG-28.63636MHZ-12-2Z-T3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDTV2CSI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb5a511f-9c5b-4649-b3cc-be7023dd52f2</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="AU" part="ADV7280AWBCPZ-M">
+      <docs>ADV7280AWBCPZ-M-RL</docs>
+      <footprints>
+        <fp>CP_32_12_ADI</fp>
+        <fp>CP_32_12_ADI-M</fp>
+        <fp>CP_32_12_ADI-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADV7280AWBCPZ-M</field>
+        <field name="Footprint">AU:CP_32_12_ADI</field>
+        <field name="Datasheet">ADV7280AWBCPZ-M-RL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DGND" type="power_out"/>
+        <pin num="2" name="DVDDIO" type="power_in"/>
+        <pin num="3" name="DVDD" type="power_in"/>
+        <pin num="4" name="DGND" type="power_out"/>
+        <pin num="5" name="*INTRQ" type="unspecified"/>
+        <pin num="6" name="GPO2" type="bidirectional"/>
+        <pin num="7" name="GPO1" type="bidirectional"/>
+        <pin num="8" name="GPO0" type="bidirectional"/>
+        <pin num="9" name="D0P" type="bidirectional"/>
+        <pin num="10" name="D0N" type="bidirectional"/>
+        <pin num="11" name="CLKP" type="unspecified"/>
+        <pin num="12" name="CLKN" type="unspecified"/>
+        <pin num="13" name="MVDD" type="power_in"/>
+        <pin num="14" name="XTALP" type="unspecified"/>
+        <pin num="15" name="XTALN" type="unspecified"/>
+        <pin num="16" name="PVDD" type="power_in"/>
+        <pin num="17" name="AIN1" type="input"/>
+        <pin num="18" name="AIN2" type="input"/>
+        <pin num="19" name="VREFP" type="power_in"/>
+        <pin num="20" name="VREFN" type="power_in"/>
+        <pin num="21" name="AVDD" type="power_in"/>
+        <pin num="22" name="AIN3" type="input"/>
+        <pin num="23" name="AIN4" type="input"/>
+        <pin num="24" name="AIN5" type="input"/>
+        <pin num="25" name="AIN6" type="input"/>
+        <pin num="26" name="AIN7" type="input"/>
+        <pin num="27" name="AIN8" type="input"/>
+        <pin num="28" name="*RESET" type="unspecified"/>
+        <pin num="29" name="ALSB" type="unspecified"/>
+        <pin num="30" name="SDATA" type="unspecified"/>
+        <pin num="31" name="SCLK" type="unspecified"/>
+        <pin num="32" name="*PWRDWN" type="unspecified"/>
+        <pin num="33" name="EPAD" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="AU" part="NFE31PT101C1E9L">
+      <footprints>
+        <fp>NFE31PT101C1E9L_MUR</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">NFE31PT101C1E9L</field>
+        <field name="Footprint">AU:NFE31PT101C1E9L_MUR</field>
+        <field name="MPN">NFE31PT101C1E9L</field>
+        <field name="Manufacturer">Murata Electronics</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="AU" part="SFW15R-1STE1LF">
+      <docs>SFW15R-1STE1LF</docs>
+      <footprints>
+        <fp>CON15_1X15_DRB_SFW_GLE</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SFW15R-1STE1LF</field>
+        <field name="Footprint">AU:CON15_1X15_DRB_SFW_GLE</field>
+        <field name="Datasheet">SFW15R-1STE1LF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+        <pin num="3" name="" type="unspecified"/>
+        <pin num="4" name="" type="unspecified"/>
+        <pin num="5" name="" type="unspecified"/>
+        <pin num="6" name="" type="unspecified"/>
+        <pin num="7" name="" type="unspecified"/>
+        <pin num="8" name="" type="unspecified"/>
+        <pin num="9" name="" type="unspecified"/>
+        <pin num="10" name="" type="unspecified"/>
+        <pin num="11" name="" type="unspecified"/>
+        <pin num="12" name="" type="unspecified"/>
+        <pin num="13" name="" type="unspecified"/>
+        <pin num="14" name="" type="unspecified"/>
+        <pin num="15" name="" type="unspecified"/>
+        <pin num="16" name="" type="unspecified"/>
+        <pin num="17" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24_Small">
+      <description>Four pin crystal, GND on pins 2 and 4, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="TLV75718PDBV">
+      <description>1A Low IQ Small Size Low Dropout Voltage Regulator, Fixed Output 1.8V, SOT-23-5</description>
+      <docs>https://www.ti.com/lit/ds/symlink/tlv757p.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLV75718PDBV</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/tlv757p.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="AU">
+      <uri>/Users/eli/workspace/AU/AU.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+1V8">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="F2" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="F3" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="F4" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="F5" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="U2" pin="5" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="+3V3">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="F1" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="J3" pin="15" pintype="unspecified"/>
+      <node ref="U2" pin="1" pinfunction="IN" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="3" name="AVDD">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="F5" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U1" pin="21" pinfunction="AVDD" pintype="power_in"/>
+    </net>
+    <net code="4" name="CD0+">
+      <node ref="J3" pin="3" pintype="unspecified"/>
+      <node ref="U1" pin="9" pinfunction="D0P" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="CD0-">
+      <node ref="J3" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="10" pinfunction="D0N" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="CD1+">
+      <node ref="J3" pin="6" pintype="unspecified"/>
+    </net>
+    <net code="7" name="CD1-">
+      <node ref="J3" pin="5" pintype="unspecified"/>
+    </net>
+    <net code="8" name="CLK+">
+      <node ref="J3" pin="9" pintype="unspecified"/>
+      <node ref="U1" pin="11" pinfunction="CLKP" pintype="unspecified"/>
+    </net>
+    <net code="9" name="CLK-">
+      <node ref="J3" pin="8" pintype="unspecified"/>
+      <node ref="U1" pin="12" pinfunction="CLKN" pintype="unspecified"/>
+    </net>
+    <net code="10" name="DVDD">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="F3" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U1" pin="3" pinfunction="DVDD" pintype="power_in"/>
+    </net>
+    <net code="11" name="DVDDIO">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="F1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="DVDDIO" pintype="power_in"/>
+    </net>
+    <net code="12" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="F1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="F2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="F3" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="F4" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="F5" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J1" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J3" pin="1" pintype="unspecified"/>
+      <node ref="J3" pin="10" pintype="unspecified"/>
+      <node ref="J3" pin="16" pintype="unspecified"/>
+      <node ref="J3" pin="17" pintype="unspecified"/>
+      <node ref="J3" pin="4" pintype="unspecified"/>
+      <node ref="J3" pin="7" pintype="unspecified"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="DGND" pintype="power_out"/>
+      <node ref="U1" pin="33" pinfunction="EPAD" pintype="unspecified"/>
+      <node ref="U1" pin="4" pinfunction="DGND" pintype="power_out"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="13" name="INTRQ">
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="*INTRQ" pintype="unspecified"/>
+    </net>
+    <net code="14" name="LED_EN">
+      <node ref="J3" pin="12" pintype="unspecified"/>
+    </net>
+    <net code="15" name="MVDD">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="F2" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U1" pin="13" pinfunction="MVDD" pintype="power_in"/>
+    </net>
+    <net code="16" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="VREFP" pintype="power_in"/>
+    </net>
+    <net code="18" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="VREFN" pintype="power_in"/>
+    </net>
+    <net code="19" name="Net-(C14-Pad2)">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C16-Pad2)">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="ALSB" pintype="unspecified"/>
+    </net>
+    <net code="22" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="*PWRDWN" pintype="unspecified"/>
+    </net>
+    <net code="23" name="PVDD">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="F4" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U1" pin="16" pinfunction="PVDD" pintype="power_in"/>
+    </net>
+    <net code="24" name="PWR_EN">
+      <node ref="J3" pin="11" pintype="unspecified"/>
+      <node ref="U1" pin="28" pinfunction="*RESET" pintype="unspecified"/>
+    </net>
+    <net code="25" name="SCL">
+      <node ref="J3" pin="13" pintype="unspecified"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="SCLK" pintype="unspecified"/>
+    </net>
+    <net code="26" name="SDA">
+      <node ref="J3" pin="14" pintype="unspecified"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="SDATA" pintype="unspecified"/>
+    </net>
+    <net code="27" name="XN">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="XTALN" pintype="unspecified"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="28" name="XP">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="XTALP" pintype="unspecified"/>
+    </net>
+    <net code="29" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="GPO2" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="GPO1" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="GPO0" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="33" name="video1">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="AIN1" pintype="input"/>
+    </net>
+    <net code="34" name="video2">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="AIN2" pintype="input"/>
+    </net>
+    <net code="35" name="video3">
+      <node ref="U1" pin="22" pinfunction="AIN3" pintype="input"/>
+    </net>
+    <net code="36" name="video4">
+      <node ref="U1" pin="23" pinfunction="AIN4" pintype="input"/>
+    </net>
+    <net code="37" name="video5">
+      <node ref="U1" pin="24" pinfunction="AIN5" pintype="input"/>
+    </net>
+    <net code="38" name="video6">
+      <node ref="U1" pin="25" pinfunction="AIN6" pintype="input"/>
+    </net>
+    <net code="39" name="video7">
+      <node ref="U1" pin="26" pinfunction="AIN7" pintype="input"/>
+    </net>
+    <net code="40" name="video8">
+      <node ref="U1" pin="27" pinfunction="AIN8" pintype="input"/>
+    </net>
+    <net code="41" name="video_in1">
+      <node ref="J1" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="video_in2">
+      <node ref="J2" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
