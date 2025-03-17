@@ -1,0 +1,8 @@
+from v4l2py import Device
+import cv2 as cv, numpy as np
+
+BGR565 = cv.COLOR_BGR2BGR565
+YUV = cv.COLOR_YUV2BGR_Y422
+fb = np.memmap("/dev/fb0",dtype='uint8',shape=(1080,1920,2))
+with Device.from_id(0) as cam:
+  for f in cam: fb[:f.height,:f.width] = cv.cvtColor(cv.cvtColor(f.array.reshape(f.height,f.width,2),YUV),BGR565)
