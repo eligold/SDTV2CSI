@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.5,
-          "height": 2.5,
-          "width": 2.5
+          "drill": 0.0,
+          "height": 0.6,
+          "width": 1.325
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -44,8 +44,8 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.2032
+          "45_degree_only": true,
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -112,7 +112,7 @@
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.1528,
-        "min_via_annular_width": 0.1528,
+        "min_via_annular_width": 0.13,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
@@ -123,6 +123,7 @@
         0.1524,
         0.2,
         0.25,
+        0.254,
         0.3,
         0.5,
         0.6,
@@ -389,7 +390,14 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "extra",
-        "nets": [],
+        "nets": [
+          "CD0+",
+          "CD0-",
+          "CD1+",
+          "CD1-",
+          "CLK+",
+          "CLK-"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
